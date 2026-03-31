@@ -38,7 +38,7 @@ menu {
     display: none;
 }
 
-header a {
+header > menu > ul > li > a {
     display: block;
     text-decoration: none;
     padding: 10px;
